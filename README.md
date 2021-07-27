@@ -12,3 +12,5 @@ This Repository includes basic concepts and text mining algorithms on NLP with i
 3. TF-IDF
 4. Word2Vec
 5. Word Embedding Techniques using Embedding layer in keras.
+
+# Implementing a Spam classifier in python| Natural Language Processing
